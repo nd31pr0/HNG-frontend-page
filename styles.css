@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 94, 0);
+  }
+  .heading {
+      text-align: center;
+      margin: 500;
+  }
+  .container {
+    width: 1300px;
+    margin: 0 auto;
+    border: 5px solid white;
+    padding: 80px;
+    display: flex;
+    justify-content:space-between;
+    border-radius: 20%;
+    
+  }
+  
+  .data-item {
+    margin-bottom: 10px;
+    flex: 1;
+  }
+  #img {
+      max-width: 150px;
+      border-radius: 50%;
+  }
+  .data-item h3 {
+    margin-bottom: 5px;
+  }
