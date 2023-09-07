@@ -9,11 +9,12 @@ body {
   .container {
     width: 1300px;
     margin: 0 auto;
-    border: 5px solid white;
+    border: 10px solid white;
     padding: 80px;
     display: flex;
     justify-content:space-between;
     border-radius: 20%;
+    background-color: rgb(160, 89, 89);
     
   }
   
